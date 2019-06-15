@@ -5,7 +5,7 @@
     <version>12.0.0</version>
     <authors>mattnield</authors>
     <owners>mattnield</owners>
-    <projectUrl>https://github.com/mattnield/kentico-youtube-selector-widget/projectUrl>
+    <projectUrl>https://github.com/mattnield/kentico-youtube-selector-widget</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Giphy selector for Kentico MVC</description>
     <releaseNotes>Initial release</releaseNotes>
@@ -20,6 +20,6 @@
 	<file src="bin\Debug\YouTubeSelectorWidget.dll" target="lib\net461\YouTubeSelectorWidget.dll" />
 	<file src="Views\Shared\Widgets\YouTubeSelectorWidget\_YouTubeSelectorSearchBox.cshtml" target="content\Views\Shared\Widgets\YouTubeSelectorWidget\_YouTubeSelectorSearchBox.cshtml" />
 	<file src="Views\Shared\Widgets\YouTubeSelectorWidget\_YouTubeSelectorWidget.cshtml" target="content\Views\Shared\Widgets\YouTubeSelectorWidget\_YouTubeSelectorWidget.cshtml" />
-	<file src="Content\Widgets\YouTubeSelector\youTubeSelector.css" target="content\Content\Widgets\YouTubeSelector\YouTubeSelector.css" />
+	<!-- <file src="Content\Widgets\YouTubeSelectorWidget\youTubeSelector.css" target="content\Content\Widgets\YouTubeSelector\YouTubeSelector.css" /> -->
   </files>
 </package>
